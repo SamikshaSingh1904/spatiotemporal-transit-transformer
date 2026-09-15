@@ -1,5 +1,9 @@
 # Spatiotemporal Transit Demand Transformer
 
+[![CI](https://github.com/SamikshaSingh1904/spatiotemporal-transit-transformer/actions/workflows/ci.yml/badge.svg)](https://github.com/SamikshaSingh1904/spatiotemporal-transit-transformer/actions)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 An end-to-end deep learning framework for forecasting origin-destination (OD) passenger route demand across asymmetric metropolitan transit networks.
 
 ## Technical Architecture
